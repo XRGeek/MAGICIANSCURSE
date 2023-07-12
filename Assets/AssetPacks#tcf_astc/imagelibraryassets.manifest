@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 128308268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 814d9eefc66be1c17fd731aba0c3f16e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/imagelibraryassets/Envelope-marker_04.jpg
+- Assets/imagelibraryassets/Eye-Music-Marker.png
+- Assets/imagelibraryassets/Vibro Marker_Whole-marker.png
+- Assets/imagelibraryassets/Elements-Markers-earth.jpg
+- Assets/imagelibraryassets/Potion-Fire-Marker.png
+- Assets/imagelibraryassets/Gem-Markers_V2_05.png
+- Assets/imagelibraryassets/Potion-Wind-Marker.png
+- Assets/imagelibraryassets/Potion-Nature-Marker.png
+- Assets/imagelibraryassets/Card-Intro-Marker.png
+- Assets/imagelibraryassets/BlackBox-Marker.png
+- Assets/imagelibraryassets/Dices-Marker.png
+- Assets/imagelibraryassets/Scale-Marker.png
+- Assets/imagelibraryassets/Tone-Markers-03.png
+- Assets/imagelibraryassets/Portals-Marker-1-v2.png
+- Assets/imagelibraryassets/Elements-Markers-water.jpg
+- Assets/imagelibraryassets/Gem-Markers_V2_06.png
+- Assets/imagelibraryassets/Tone-Markers-02.png
+- Assets/imagelibraryassets/Gem-Markers_V2_01.png
+- Assets/imagelibraryassets/Book-Marker.png
+- Assets/imagelibraryassets/Eye-Cosmos-Marker.png
+- Assets/imagelibraryassets/Music-sand-marker.png
+- Assets/imagelibraryassets/Eye-Ornaments-Marker.png
+- Assets/imagelibraryassets/Elements Markers 4_Earth whole marker.png
+- Assets/imagelibraryassets/Envelope-marker_01.jpg
+- Assets/imagelibraryassets/Tone-Markers-04.png
+- Assets/imagelibraryassets/Key Marker_Whole marker.png
+- Assets/imagelibraryassets/Eye-Portals-Marker.png
+- Assets/imagelibraryassets/Gem-Markers_V2_04.png
+- Assets/imagelibraryassets/Elements Markers 4_Fire whole marker.png
+- Assets/imagelibraryassets/Tone-Markers-01.png
+- Assets/imagelibraryassets/Crown-Key-Marker-part-2.png
+- Assets/imagelibraryassets/Envelope-marker_03.jpg
+- Assets/imagelibraryassets/Portals-Marker-2-v2.png
+- Assets/imagelibraryassets/Gem-Markers_V2_02.jpg
+- Assets/imagelibraryassets/Wand-Marker.png
+- Assets/imagelibraryassets/Card-House-Marker.png
+- Assets/imagelibraryassets/Eye-Door-Marker.png
+- Assets/imagelibraryassets/Vibro-Marker.png
+- Assets/imagelibraryassets/Elements-Markers-fire.jpg
+- Assets/imagelibraryassets/Elements Markers 4_Water whole marker.png
+- Assets/imagelibraryassets/Potion-Ice-Marker.png
+- Assets/imagelibraryassets/Eye-Elements-Marker.png
+- Assets/imagelibraryassets/Vibro-Marker2.png
+- Assets/imagelibraryassets/Gem-Markers_V2_03.png
+- Assets/imagelibraryassets/Crown-Key-Marker-part-1.png
+- Assets/imagelibraryassets/Elements-Markers-wind.jpg
+- Assets/imagelibraryassets/Hat-Marker.png
+- Assets/imagelibraryassets/Envelope-marker_02.jpg
+- Assets/imagelibraryassets/Envelope-marker_05.jpg
+Dependencies: []

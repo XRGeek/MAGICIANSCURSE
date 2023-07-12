@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1116412014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79a68c44257537e0344866f63b560d87
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2013514fe9cc708c84fd1a7cbf968bb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Shaders/EyeShaderURP/Shaders/EyeShader_Model3.shader
+- Assets/Shaders/Gems/Gem.shader
+- Assets/Shaders/EyeShaderURP/Shaders/EyeShader_Model4.shader
+- Assets/Shaders/Dove/Shaders/Standard Two Sided Soft Blend.shader
+- Assets/Shaders/EyeShaderURP/Shaders/EyeShader_Model1URP.shader
+- Assets/Shaders/001_studioHDRI.hdr
+- Assets/Shaders/Dove/Shaders/Double Sided Shaders/Double Sided Transparent Diffuse
+  Bump Cutout.shader
+- Assets/Shaders/EyeShaderURP/Shaders/EyeShader_Model3_Mod.shader
+- Assets/Shaders/EyeShaderURP/Shaders/EyeShader_Model3a.shader
+- Assets/Shaders/UnlitShadow.shader
+- Assets/Shaders/Gems/Gem_for_LWRP.shader
+- Assets/Shaders/EyeShaderURP/Shaders/EyeShader_Model2URP.shader
+- Assets/Shaders/UnlitTransparentCutout(Shadow).shader
+- Assets/Shaders/EyeShaderURP/Shaders/EyeShader_Model2.shader
+- Assets/Shaders/Dove/Shaders/Double Sided Shaders/Double Sided Emissive Diffuse.shader
+- Assets/Shaders/Studio.mat
+- Assets/Shaders/Dove/Shaders/Double Sided Shaders/Double Sided Transparent Diffuse
+  Bump.shader
+- Assets/Shaders/Dove/Shaders/Double Sided Shaders/Double Sided Standard Diffuse
+  Bump.shader
+- Assets/Shaders/EyeShaderURP/Shaders/EyeShader_Model1.shader
+- Assets/Shaders/EyeShaderURP/Shaders/EyeShader_Model3URP.shader
+- Assets/Shaders/URP AR Shadow Receiver.shader
+Dependencies:
+- D:/Work/_/work/Job/escaperoomspiele.com/Vuforia Unity 2020/The Magician's Curse/Assets/AssetPacks/excludedfrombuild

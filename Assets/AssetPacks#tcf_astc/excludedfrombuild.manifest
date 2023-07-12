@@ -1,0 +1,1043 @@
+ManifestFileVersion: 0
+CRC: 543590368
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 937566ffa7975a1d609f5bd877dff9a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3ae4852ac750d3815541979e3984d45f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97fa9d480f3b21744a9ed30ffa97c4d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e21670774e265b4f8fd1a32b2a739a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c437a86bce6693a43bbcc53fcff7bf88, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 299369f945879d147a3e97f89f51f236, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fb14f28e19473c44a41de27336e9cb4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bebae66b80220b842b22b13cdde1e6fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8410750655a2d2f489c642c14c30aaec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8e9dda14b6f34517a0d598d3320a902, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fcf96328d7865b44ea2756073339a74a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21acea87dee6e0b4da59e52154bf12ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e75dffbcd776ca4fbc489eefc4cca4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b63f707da2500b4cb7b50beb9a1dece, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3bc22bedb1391704db395cc794badc42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dded6759b4b430e4283cf015251490b7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11a144aae082d4f478dce882e7a9ff3e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e613f20a22a73b149be37fccaac1db0e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1cdfcee5fa3388540924238b5581eea9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e897c7c3dce1d34ba14e52c5bac6c36, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 166
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Audio/ExplosionGhost2.ogg
+- Assets/excludedfrombuild/Models/Dice/dice_1_Club.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Shaders/Add_Fresnel.shader
+- Assets/excludedfrombuild/Models/Playing Cards/Image/PlayingCards/Diamond09.png
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Textures/SnowParticles.png
+- Assets/excludedfrombuild/Models/Playing Cards/Image/PlayingCards/Heart01.png
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_Heart09.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Image/PlayingCards/Heart11.png
+- Assets/excludedfrombuild/Models/Portals end/P1_Mat.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect11/Tornado.mat
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Materials/Effect13/IceFog.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect9/Fog
+  1.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Audio/ExplosionIce2.ogg
+- Assets/excludedfrombuild/Models/Book/Materials/German/Page_Ger_06_R.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/Particle1.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/DecalRing1.tif
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_04/Rune_Block_04_Emission.png
+- Assets/excludedfrombuild/Models/Dice/Dice.physicmaterial
+- Assets/excludedfrombuild/Models/Book/Materials/German/Page_Ger_07_R.mat
+- Assets/excludedfrombuild/Textures/Potion_03/Potion_3_Glass_Normal.png
+- Assets/excludedfrombuild/Animations/Scale/Result_Hint.anim
+- Assets/excludedfrombuild/SFX/Voices/en_audio_vibro.mp3
+- Assets/excludedfrombuild/Video Player/German/ESCAPEROOM_Envelope-2_def-1080x1080
+  7.mp4
+- Assets/excludedfrombuild/SFX/Tones/Tone_01.MP3
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/Snow.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Sounds/Light buff.wav
+- Assets/excludedfrombuild/Models/Eye_frames/Eye_frame_05/Eye_frame_05_substance_EyeFrame_05_Emission.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Models/Rock2.FBX
+- Assets/excludedfrombuild/Models/Book/Materials/English/Page_En_07_R.mat
+- Assets/excludedfrombuild/SFX/Sci-Fi Sounds/Click 3.wav
+- Assets/excludedfrombuild/Textures/Book Key/3_Gold_1024_AlbedoTransparency.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/Ice3.png
+- Assets/excludedfrombuild/Textures/Potion_02/Potion_02_Bottle_02_Mat_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect4/Particles.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Red_Spade04.mat
+- Assets/excludedfrombuild/Models/Portals end/P2_GemSlots.fbx
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Diamond07_00.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Shaders/DissolveNoise.shader
+- Assets/excludedfrombuild/Models/Tarot Card/TarotCard_GE.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Trail66.png
+- Assets/excludedfrombuild/Video Player/German/ESCAPEROOM_ToneMarker-2_def-1080x1080
+  3.mp4
+- Assets/excludedfrombuild/Models/Book/Materials/English/Page_En_08_L.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/SkyPortal.png
+- Assets/excludedfrombuild/Textures/GemSlots/P2_Gem_slots_MetallicSmoothness.png
+- Assets/excludedfrombuild/AGP/Animators/Swipe Right.controller
+- Assets/excludedfrombuild/Models/Potions/Potion_03.fbx
+- Assets/excludedfrombuild/Models/Book/Materials/French/Page_Fr_04_L.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Prefabs/Mobile Nature buff.prefab
+- Assets/excludedfrombuild/Models/Eye_frames/EyeFrame_05.mat
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Action_Rune_B.wav
+- Assets/excludedfrombuild/Animations/Eye_Frame_02/Appear.anim
+- Assets/excludedfrombuild/Models/Cosmos_Cube/Puzzle_3_frame.jpg
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Models/CylinderFromGround.fbx
+- Assets/excludedfrombuild/Models/Book/Materials/French/Page_Fr_03_L.mat
+- Assets/excludedfrombuild/SFX/DrawCard_01.mp3
+- Assets/excludedfrombuild/SFX/Tones/Tone_09.MP3
+- Assets/excludedfrombuild/SFX/Voices/EN_Do-not-Open.mp3
+- Assets/excludedfrombuild/Models/Gems/Dark_blue.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Models/QuadToCircle.fbx
+- Assets/excludedfrombuild/Textures/Dice/dice_03_Heart_Albedo.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect4/Fire.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Gradient9.png
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect11.prefab
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/Mask.png
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Club08_00_col.tif
+- Assets/excludedfrombuild/Animations/Portal_End_02/P2_Wait.anim
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Shaders/Add_CenterGlow.shader
+- Assets/excludedfrombuild/Video Player/English/ToneMarker 3 Take 1.mp4
+- Assets/excludedfrombuild/Models/Crown_Key/Crown_Key_Eye_Circle.mat
+- Assets/excludedfrombuild/Models/Dove/Animations/dove@preen.FBX
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/RuneEyeKey.jpg
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Magic_Ring_Pickup_A.wav
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/PortalFog2.png
+- Assets/excludedfrombuild/Textures/Crown-Key-Marker-02-emissive.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Trail79.png
+- Assets/excludedfrombuild/Animations/Potion_Button/Button_Pushed.anim
+- Assets/excludedfrombuild/Models/Hat/Hat_Mat.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Audio/FrostExplosion.wav
+- Assets/excludedfrombuild/Models/Gems/Orange.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Materials/Effect1/Fog.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Noise1.png
+- Assets/excludedfrombuild/Animations/Portal_End_01/P1_Solved.anim
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Audio/FrostFadeIn.wav
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Sounds/Nature buff.wav
+- Assets/excludedfrombuild/Video Player/German/ESCAPEROOM_ToneMarker-4_def-1080x1080
+  5.mp4
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Trail66cg.mat
+- Assets/excludedfrombuild/Models/Book/Materials/French/Page_Fr_03_R.mat
+- Assets/excludedfrombuild/Models/Dove/Textures/Dove_N.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Models/Spikes.FBX
+- Assets/excludedfrombuild/Models/Wizard's Staff/Wizard's Staff_Material_2048_Blue.mat
+- Assets/excludedfrombuild/Models/Potions/Bottle_01_Glass.mat
+- Assets/excludedfrombuild/Models/Cosmos_Cube/Puzzle_3_part_shine.shadergraph
+- Assets/excludedfrombuild/HumanShaderPackURP/EyeShaderURP/Textures/EyeExtras1.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Shaders/Blend_CenterGlow.shader
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Point19.png
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_05/Rune_Block_05_Normal.png
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Diamond06_00.mat
+- Assets/excludedfrombuild/HumanShaderPackURP/EyeShaderURP/Mesh/EyeBallSurface_LOD0.FBX
+- Assets/excludedfrombuild/Animations/CrownKey/Reveal_FullKey.anim
+- Assets/excludedfrombuild/Textures/Wizard's Staff/Wizard's Staff_2048_MetallicSmoothness.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/WaterNorm2.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Flare3cg.mat
+- Assets/excludedfrombuild/HumanShaderPackURP/EyeShaderURP/Textures/EyeExtrasStrong.png
+- Assets/excludedfrombuild/SFX/DrawCard_02.mp3
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect5/Fringe.mat
+- Assets/excludedfrombuild/Models/Cosmos_Cube/Puzzle_3_shine_part_03.mat
+- Assets/excludedfrombuild/Animations/Potions/VFX Nature activated.anim
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Smoke24bcg.mat
+- Assets/excludedfrombuild/SFX/Tones/Tone_03.MP3
+- Assets/excludedfrombuild/Models/Music sand cards/Card_07.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Flare3.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/IceNormal.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect11/Cloud
+  dark.mat
+- Assets/excludedfrombuild/Models/Book/Materials/French/Page_Fr_06_R.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect5/Sky.mat
+- Assets/excludedfrombuild/Animations/Eye_Frame_05/Idle.anim
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Trail52bcg.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Shaders/Blend_TwoSides.shader
+- Assets/excludedfrombuild/Animations/Potions/VFX Wind start wait.anim
+- Assets/excludedfrombuild/Textures/Book/English/Page_En_05_L.jpg
+- Assets/excludedfrombuild/Textures/Eye_frame_01/Eye_frame_01_EyeFrame_01_MetallicSmoothness.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Audio/ExplosionWave1.ogg
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Trail78.png
+- Assets/excludedfrombuild/Textures/Book/English/Page_En_04_R.jpg
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Models/Sheets.FBX
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/Splash.png
+- Assets/excludedfrombuild/Models/Cosmos_Cube/puzzle-3-radial-slider-bg.png
+- Assets/excludedfrombuild/Animations/Potions/VFX Fire start wait.anim
+- Assets/excludedfrombuild/Models/Book/Materials/French/Page_Fr_08_R.mat
+- Assets/excludedfrombuild/Models/Book/OpenWait_PageOnLeft.anim
+- Assets/excludedfrombuild/Models/Playing Cards/Image/PlayingCards/Diamond07.png
+- Assets/excludedfrombuild/Models/Dove/Shaders/DoveFeathers.shadergraph
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Material_Liquid_Bubble_Pick_Up_1.wav
+- Assets/excludedfrombuild/Textures/Potion_02/Potion_02_Bottle_02_Glass_MetallicSmoothness.png
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_01/Rune_Block_01_Normal.png
+- Assets/excludedfrombuild/AGP/Source/Sprites/Expand.png
+- Assets/excludedfrombuild/Models/Potions/Bottle_02_Glass.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Club08_00.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Image/PlayingCards/Heart08.png
+- Assets/excludedfrombuild/Textures/Book/German/Page_Ger_07_R.jpg
+- Assets/excludedfrombuild/Models/Book/Materials/German/Page_Ger_04_R.mat
+- Assets/excludedfrombuild/Animations/Eye_Frame_05/Appear.anim
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Audio/FireIn.wav
+- Assets/excludedfrombuild/Models/Book/Materials/French/Page_Fr_05_L.mat
+- Assets/excludedfrombuild/Models/Book/Materials/German/Page_Ger_08_R.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Audio/PostEffect1.wav
+- Assets/excludedfrombuild/Models/Music sand cards/Card_02.mat
+- Assets/excludedfrombuild/SFX/Sci-Fi Sounds/Weapon 16 Start (Laser).wav
+- Assets/excludedfrombuild/Video Player/English/ToneMarker 2 Take 2.mp4
+- Assets/excludedfrombuild/Textures/Book/English/Page_En_06_L.jpg
+- Assets/excludedfrombuild/SFX/Interface and Item Sounds/Click Back (2).wav
+- Assets/excludedfrombuild/Models/Book/Materials/IceFog2 1.mat
+- Assets/excludedfrombuild/HumanShaderPackURP/EyeShaderURP/Textures/Masks/CausticMask_Soft.png
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Textures/Liquid3.png
+- Assets/excludedfrombuild/Models/Eye_frames/Eye_frame_03.fbx
+- Assets/excludedfrombuild/Models/Music sand cards/Card_04.mat
+- Assets/excludedfrombuild/Textures/Book/German/Page_Ger_08_L.jpg
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect5/Portal1.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Trail78cg.mat
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Chest_Unlock_Small_2.wav
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Heart08_00.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/Blue_Club03.jpg
+- Assets/excludedfrombuild/Textures/Scale/Scale_ScaleMaterial_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Diamond05_00_col.tif
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect18.prefab
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Heart04_00_col.tif
+- Assets/excludedfrombuild/Textures/Eye_frame_01/EyeFrame_01_Mixed_AO.jpg
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Material_Wood_Lever_2.wav
+- Assets/excludedfrombuild/Textures/Music sand cards/Music_sand_card_08.jpg
+- Assets/excludedfrombuild/Textures/Coins/Coin_01_face_B.png
+- Assets/excludedfrombuild/Models/Book/Materials/French/Page_Fr_05_R.mat
+- Assets/excludedfrombuild/HumanShaderPackURP/EyeShaderURP/Mesh/EyeBallSurface_LOD1.FBX
+- Assets/excludedfrombuild/Animations/Card Tower/Card_Tower_Wait.anim
+- Assets/excludedfrombuild/SFX/Sci-Fi Sounds/Teleport 5_2.wav
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Flare28.png
+- Assets/excludedfrombuild/Textures/Book/French/Page_Fr_06_R.jpg
+- Assets/excludedfrombuild/SFX/Interface and Item Sounds/Book Page (1).mp3
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Material_Wood_Lever_1.wav
+- Assets/excludedfrombuild/Textures/Dice/dice_04_Spade_Albedo.png
+- Assets/excludedfrombuild/Textures/Portals End/P1_Mat_Mixed_AO.jpg
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_08/Rune_Block_08_Normal.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Flare30bcg.mat
+- Assets/excludedfrombuild/Models/Book/Materials/English/Page_En_01_R.mat
+- Assets/excludedfrombuild/Animations/Eye_Frame_01/Appear.anim
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/BackColor_Black_col.tif
+- Assets/excludedfrombuild/Video Player/English/Envelope 1 Take 3.mp4
+- Assets/excludedfrombuild/Textures/Music sand cards/Music_sand_card_04.jpg
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_03/Rune_Block_03_Normal.png
+- Assets/excludedfrombuild/Textures/Book/French/Page_Fr_08_L.jpg
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_Diamond07.mat
+- Assets/excludedfrombuild/Models/Gems/Orange.png
+- Assets/excludedfrombuild/AGP/Source/Zoom.prefab
+- Assets/excludedfrombuild/Models/Portals end/P1_Gem_slots.mat
+- Assets/excludedfrombuild/Textures/Potion_04/Potion_4_MetallicSmoothness.jpg
+- Assets/excludedfrombuild/Textures/Book/German/Page_En_08_R.jpg
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Flare6cg.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Club01_00.mat
+- Assets/excludedfrombuild/Models/Rune_Blocks/Rune_Block_02.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Image/PlayingCards/Diamond06.png
+- Assets/excludedfrombuild/Animations/Keypads/Keypad.controller
+- Assets/excludedfrombuild/Animations/Potions/VFX Nature activation.anim
+- Assets/excludedfrombuild/Animations/Potions/VFX Fire activated.anim
+- Assets/excludedfrombuild/Animations/Eye_Frame_Key/Idle.anim
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Audio/ExplosionWave2.ogg
+- Assets/excludedfrombuild/Models/Book/Materials/English/Page_En_04_R.mat
+- Assets/excludedfrombuild/Models/Dove/Animations/dove@flyright.FBX
+- Assets/excludedfrombuild/Models/Cosmos_Cube/Puzzle_3_shine_part_other.mat
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_06/Rune_Block_06_Emission.png
+- Assets/excludedfrombuild/Models/Dove/Prefabs/Dove with card.prefab
+- Assets/excludedfrombuild/Models/Book/Materials/Metal.mat
+- Assets/excludedfrombuild/Textures/Book/French/Page_Fr_02_R.jpg
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Heart01_00.mat
+- Assets/excludedfrombuild/Models/Dove/Animations/idle.anim
+- Assets/excludedfrombuild/Textures/Book/English/Page_En_07_R.jpg
+- Assets/excludedfrombuild/Models/Dove/Dove with card.controller
+- Assets/excludedfrombuild/Textures/Book/Book_Metal_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/Textures/GemSlots/P2_Gem_slots_Normal.png
+- Assets/excludedfrombuild/Textures/Potion_02/Potion_02_Bottle_02_Glass_AlbedoTransparency.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Glow1cg.mat
+- Assets/excludedfrombuild/Textures/Book/German/Page_Ger_03_L.jpg
+- Assets/excludedfrombuild/Models/BookLightning.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Noise34.png
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Textures/IceRGB.png
+- Assets/excludedfrombuild/Models/Cosmos_Cube/Fade.anim
+- Assets/excludedfrombuild/Textures/Book/English/Page_En_02_L.jpg
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Models/QuadToCircle3.fbx
+- Assets/excludedfrombuild/Models/Coins/Coins.fbx
+- Assets/excludedfrombuild/Animations/Eye_Frame_01/Solved.anim
+- Assets/excludedfrombuild/Textures/Portals End/P1_Mat_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Craft_Air_Bubble_Suction_Pop_Cork_4_Water_UI.wav
+- Assets/excludedfrombuild/SFX/Tones/Tone_04.MP3
+- Assets/excludedfrombuild/Video Player/German/ESCAPEROOM_ToneMarker-1_def-1080x1080
+  2.mp4
+- Assets/excludedfrombuild/Models/Hat/Hat.fbx
+- Assets/excludedfrombuild/AGP/Tap.prefab
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Noise53.png
+- Assets/excludedfrombuild/SFX/Interface and Item Sounds/Book Page (2).mp3
+- Assets/excludedfrombuild/Textures/Book/Book_Metal_MetallicSmoothness.png
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Draw_Heavy_Weapon_1.wav
+- Assets/excludedfrombuild/Video Player/German/ESCAPEROOM_Envelope-4_def-1080x1080
+  10.mp4
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Audio/FreezeLoop.wav
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Flare20.png
+- Assets/excludedfrombuild/Models/Book/Materials/French/Page_Fr_07_R.mat
+- Assets/excludedfrombuild/Textures/Crown-Key-Marker-01-emissive.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect9/Fog
+  2.mat
+- Assets/excludedfrombuild/SFX/Interface and Item Sounds/Countdown (5) Tick.wav
+- Assets/excludedfrombuild/Textures/Crown_Key/Crown_Key_Eye_Circle_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Trail71.png
+- Assets/excludedfrombuild/Models/Book/Materials/German/Page_Ger_03_L.mat
+- Assets/excludedfrombuild/SFX/Interface and Item Sounds/Fantasy Click (1).wav
+- Assets/excludedfrombuild/Models/Music sand cards/Card_00.mat
+- Assets/excludedfrombuild/Models/Potions/Potion_02.fbx
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Models/Path2.fbx
+- Assets/excludedfrombuild/Models/Music sand cards/Card_08.mat
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Metal_Latch_Door_Hit_1.wav
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Club09_00.mat
+- Assets/excludedfrombuild/Animations/Eye_Frame_05/Eye_Frame_05.controller
+- Assets/excludedfrombuild/Models/Eye_frames/EyeFrame_04.mat
+- Assets/excludedfrombuild/SFX/Interface and Item Sounds/Fantasy Click (2).wav
+- Assets/excludedfrombuild/Textures/Coins/Coin_02_face_A.png
+- Assets/excludedfrombuild/Models/Rune_Blocks/Rune_Block_05.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Audio/RockExplosion.wav
+- Assets/excludedfrombuild/Textures/Music sand cards/Music_sand_card_03.jpg
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Models/Twist4.fbx
+- Assets/excludedfrombuild/Animations/Potion_Button/Button_Wait.anim
+- Assets/excludedfrombuild/Models/Dove/Animations/dove@fly.FBX
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect5/MaskRock.mat
+- Assets/excludedfrombuild/Models/Book/Materials/French/Page_Fr_04_R.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Trail58.png
+- Assets/excludedfrombuild/Textures/Portals End/P2_Mat_MetallicSmoothness.png
+- Assets/excludedfrombuild/HumanShaderPackURP/EyeShaderURP/Materials/EyeShader3/Custom_EyeShader_Key.mat
+- Assets/excludedfrombuild/Models/Wizard's Staff/Wizard's Staff_Material_Wind.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Flare2cg.mat
+- Assets/excludedfrombuild/Models/Cosmos_Cube/Puzzle_3_part_3_blur.png
+- Assets/excludedfrombuild/Models/Eye_frames/Eye_frame_05.fbx
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Model/PlayingCards_00.fbx
+- Assets/excludedfrombuild/Models/Dove/Materials/Dove_D.mat
+- Assets/excludedfrombuild/Video Player/German/ESCAPEROOM_Envelope-1_def-1080x1080
+  6.mp4
+- Assets/excludedfrombuild/Textures/Book/German/Page_Ger_06_L.jpg
+- Assets/excludedfrombuild/Models/Dove/Materials/Dove - Eye - Material.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Trail71cg.mat
+- Assets/excludedfrombuild/Video Player/English/Envelope 4 Take 2.mp4
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Materials/Effect10/Spikes
+  2.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/TiledNormal2.png
+- Assets/excludedfrombuild/Models/Cosmos_Cube/Puzzle_3_shine_part_outside.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Image/PlayingCards/Heart04.png
+- Assets/excludedfrombuild/Animations/Eye_Frame_01/Idle.anim
+- Assets/excludedfrombuild/Models/Dice/dice_3_Heart.mat
+- Assets/excludedfrombuild/Models/Book/Materials/English/Page_En_04_L.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Blank_00.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/Ice2.png
+- Assets/excludedfrombuild/Animations/Potions/VFX Fire.controller
+- Assets/excludedfrombuild/Models/Dice/dice_2_Diamond.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Leaf12.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect9/Fog.mat
+- Assets/excludedfrombuild/Models/Wizard's Staff/Wizard's Staff_Material_Fire.mat
+- Assets/excludedfrombuild/Models/Gems/Diamond.mat
+- Assets/excludedfrombuild/Animations/Eye_Frame_Key/Solved.anim
+- Assets/excludedfrombuild/SFX/Tones/Tone_06.MP3
+- Assets/excludedfrombuild/Textures/Music sand cards/Music_sand_card_09.jpg
+- Assets/excludedfrombuild/Textures/Eye_frame_03/Eye_frame_03_Normal.png
+- Assets/excludedfrombuild/Models/Scale/Scale.fbx
+- Assets/excludedfrombuild/Models/Dove/Textures/Dove_D.png
+- Assets/excludedfrombuild/Animations/Keypads/FadeIn.anim
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Models/Materials/Wave1.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Materials/Effect1/Decal.mat
+- Assets/excludedfrombuild/Textures/Coins/Coins_Coin_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/Models/Music sand cards/Card_05.mat
+- Assets/excludedfrombuild/Models/Dove/Materials/DoveFeathers_D.mat
+- Assets/excludedfrombuild/Models/Eye_frames/Ornament_Cubes.mat
+- Assets/excludedfrombuild/AGP/Source/Sprites/Arrow.png
+- Assets/excludedfrombuild/SFX/Voices/de_audio_desert_sand.mp3
+- Assets/excludedfrombuild/SFX/Voices/en_audio_endcurse.mp3
+- Assets/excludedfrombuild/Models/Gems/Pink.png
+- Assets/excludedfrombuild/Textures/Book/English/Page_En_05_R.jpg
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Materials/Effect11/WeaponMesh_MeshEffect.mat
+- Assets/excludedfrombuild/Textures/Portals End/P1_Mat_MetallicSmoothness.png
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Materials/Effect7/Fire1.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Models/SphereHalfLowPoly.FBX
+- Assets/excludedfrombuild/Textures/Eye_frame_03/Eye_frame_03_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/Animations/Scale/RightSelected.anim
+- Assets/excludedfrombuild/Animations/Potions/VFX Nature.controller
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect5/Mask.mat
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Textures/WaterNorm.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Models/Root.FBX
+- Assets/excludedfrombuild/Models/Book/Page_01_turn.anim
+- Assets/excludedfrombuild/AGP/Source/Sprites/OneFinger.png
+- Assets/excludedfrombuild/Models/Music sand cards/Card_03.mat
+- Assets/excludedfrombuild/Models/Book/Materials/German/Page_Ger_06_L.mat
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Action_Rune_A.wav
+- Assets/excludedfrombuild/Textures/Book/French/Page_Fr_03_R.jpg
+- Assets/excludedfrombuild/Models/Playing Cards/Image/PlayingCards/Diamond03.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect11/Cloud.mat
+- Assets/excludedfrombuild/Textures/Book/German/Page_Ger_02_R.jpg
+- Assets/excludedfrombuild/Textures/Book/English/Page_En_08_L.jpg
+- Assets/excludedfrombuild/Textures/Book/Book_Page_01_Normal.jpg
+- Assets/excludedfrombuild/Textures/Hat/Hat_Hat_Mat_Normal.jpg
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Audio/FireGasLoop.wav
+- Assets/excludedfrombuild/Models/Cosmos_Cube/Puzzle_3_part_2_blur.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Audio/FireIdleLoop.wav
+- Assets/excludedfrombuild/Models/Potions/Bottle_03_Glass.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Audio/PortalOut.wav
+- Assets/excludedfrombuild/Textures/Music sand cards/Music_sand_card_00.jpg
+- Assets/excludedfrombuild/SFX/Voices/en_audio_desert_sand.mp3
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/Fire4.png
+- Assets/excludedfrombuild/Models/Tarot Card/Tarot Card.fbx
+- Assets/excludedfrombuild/Textures/Book/Book_Page_01_MetallicSmoothness.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect27/Decal
+  2.mat
+- Assets/excludedfrombuild/Models/Book/Materials/Leather.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Trail73.png
+- Assets/excludedfrombuild/Models/Cosmos_Cube/puzzle-3-radial-slider.png
+- Assets/excludedfrombuild/Models/Dice/dice_low.FBX
+- Assets/excludedfrombuild/Models/Book/Materials/German/Page_Ger_04_L.mat
+- Assets/excludedfrombuild/Textures/GemSlots/P2_Gem_slots_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/Mask1.png
+- Assets/excludedfrombuild/Models/Gems/Red.mat
+- Assets/excludedfrombuild/Textures/Coins/Coin_04_face_A.png
+- Assets/excludedfrombuild/SFX/Voices/en_audio_portals_solved.mp3
+- Assets/excludedfrombuild/AGP/Source/Sprites/Circle.png
+- Assets/excludedfrombuild/Models/Crown_Key/Crown_Key_Symbol_Patern_P1.mat
+- Assets/excludedfrombuild/Textures/Potion_03/Potion_3_Normal.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/MaskForShader.png
+- Assets/excludedfrombuild/Textures/TarotCard/TarotCard_Diffuse_EN.png
+- Assets/excludedfrombuild/Models/Book/Materials/French/Page_Fr_02_L.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Audio/Flame1.wav
+- Assets/excludedfrombuild/HumanShaderPackURP/EyeShaderURP/Textures/EyeExtras.png
+- Assets/excludedfrombuild/Models/AR shadow receiver.mat
+- Assets/excludedfrombuild/Animations/Dove_Card_Button/Intro_Card_Button.controller
+- Assets/excludedfrombuild/Models/Eye_frames/EyeFrame_03.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Flare4cg.mat
+- Assets/excludedfrombuild/Models/Crown_Key/Crown_Key_P1.mat
+- Assets/excludedfrombuild/Models/Gems/Dark_bllue.png
+- Assets/excludedfrombuild/Models/Portals end/P2_Gem_slots.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Heart11_00.mat
+- Assets/excludedfrombuild/Animations/Potions/VFX Wind.controller
+- Assets/excludedfrombuild/Models/Rune_Blocks/Rune_Block_07.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Trail48.png
+- Assets/excludedfrombuild/Models/Rune_Blocks/Rune_Block_06.mat
+- Assets/excludedfrombuild/Textures/Portals End/P2_Mat_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/SmokeTile3.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/CircleRainbow11cg.mat
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Prefabs/PC Effects/Effect13.prefab
+- Assets/excludedfrombuild/Models/Cosmos_Cube/Puzzle_3_Top_Part.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Shaders/Fire.shader
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/NormalMap8.png
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Textures/Ice.tif
+- Assets/excludedfrombuild/AGP/Source/Sprites/OneRing.png
+- Assets/excludedfrombuild/Animations/Card Tower/Card_Tower.controller
+- Assets/excludedfrombuild/Models/Book/Materials/German/Page_Ger_05_L.mat
+- Assets/excludedfrombuild/Video Player/German/ESCAPEROOM_Intro_def-neu-2160x2160
+  13.mp4
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect4/Fire
+  1.mat
+- Assets/excludedfrombuild/Animations/Dove_Card_Button/Card_Mat.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Red_Club03.mat
+- Assets/excludedfrombuild/Models/Scale/ScaleSelected.mat
+- Assets/excludedfrombuild/Models/Potions/Potion_01.fbx
+- Assets/excludedfrombuild/Textures/Book/Book_Metal_Normal.jpg
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Textures/ParticleStretched2.png
+- Assets/excludedfrombuild/Textures/Coins/Coin_04_face_B.png
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Diamond03_00_col.tif
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Club10_00.mat
+- Assets/excludedfrombuild/Models/Book/Materials/English/Page_En_06_R.mat
+- Assets/excludedfrombuild/Animations/TextFade/FadeOut.anim
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/Particle2.png
+- Assets/excludedfrombuild/Animations/Dove_Card_Button/Intro_Card_Disapear.anim
+- Assets/excludedfrombuild/Animations/Eye_Frame_Key/StartWait.anim
+- Assets/excludedfrombuild/Models/Eye_frames/Eye_frame_05/Eye_frame_05_substance_EyeFrame_05_Normal.png
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Spade12_00.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/Liquid3.tif
+- Assets/excludedfrombuild/Models/Portals end/Portal_02.fbx
+- Assets/excludedfrombuild/Textures/Eye_frame_04/Eye_frame_04_EyeFrame_04_Normal.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Leaf12bcg.mat
+- Assets/excludedfrombuild/Models/Music sand cards/Card_10.mat
+- Assets/excludedfrombuild/Models/Book/Materials/English/Page_En_05_L.mat
+- Assets/excludedfrombuild/Textures/Potion_04/Potion_4_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Materials/Effect7/Fire2.mat
+- Assets/excludedfrombuild/Textures/GemSlots/P1_Gem_slots_Emission.png
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Spade06_00_col.tif
+- Assets/excludedfrombuild/Video Player/Tone-Marker-1-Freezed-Image.jpg
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/EnergyBall5.png
+- Assets/excludedfrombuild/Textures/Book/Book_Leather_MetallicSmoothness.png
+- Assets/excludedfrombuild/SFX/Interface and Item Sounds/Abstract Click (6).wav
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/Reflection.cubemap
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Draw_Heavy_Weapon_2.wav
+- Assets/excludedfrombuild/HumanShaderPackURP/EyeShaderURP/Materials/EyeShader3/EyeShader3_MysticEye.mat
+- Assets/excludedfrombuild/Models/Rune_Blocks/Rune_Block.fbx
+- Assets/excludedfrombuild/Models/Dove/Animations/dove@falling.FBX
+- Assets/excludedfrombuild/Textures/Book/Book_Leather_Emission.jpg
+- Assets/excludedfrombuild/Models/Book/Materials/English/Page_En_06_L.mat
+- Assets/excludedfrombuild/Textures/GemSlots/P1_Gem_slots_Normal.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Models/QuadToCircle2.fbx
+- Assets/excludedfrombuild/Models/Playing Cards/Image/PlayingCards/Heart10.png
+- Assets/excludedfrombuild/Animations/Potions/VFX Ice.controller
+- Assets/excludedfrombuild/Models/Cosmos_Cube/Puzzle_3_cube.fbx
+- Assets/excludedfrombuild/Animations/Potions/VFX Fire activation.anim
+- Assets/excludedfrombuild/SFX/Interface and Item Sounds/Click (3).wav
+- Assets/excludedfrombuild/Video Player/English/Envelope 2 Take 3.mp4
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_05/Rune_Block_05_Emission.png
+- Assets/excludedfrombuild/Textures/Coins/Coin_Mixed_AO.jpg
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Prefabs/EffectParts/CollisionEffects/Effect9_Collision_smaller.prefab
+- Assets/excludedfrombuild/Video Player/English/ToneMarker 1 Take 3.mp4
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/Smoke3(8x8).png
+- Assets/excludedfrombuild/Textures/Scale/Scale_ScaleMaterial_MetallicSmoothness.png
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Heart10_00_col.tif
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/Models/Gems/Magic_Gem_12.fbx
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Flare30.png
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Materials/Effect18/Trail.mat
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Materials/Effect18/Mesh_MeshEffect.mat
+- Assets/excludedfrombuild/Animations/Portal_End_01/Portal_End_01.controller
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/ParticleTrail.png
+- Assets/excludedfrombuild/AGP/Zoom In.prefab
+- Assets/excludedfrombuild/Models/Book/Closed.L.anim
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Stone_Door_Open.wav
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_02/Rune_Block_02_Emission.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect11/PivotTornado.mat
+- Assets/excludedfrombuild/Textures/Book/English/Page_En_03_R.jpg
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Models/Petal.fbx
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect9/IceParts.mat
+- Assets/excludedfrombuild/Animations/Eye_Frame_Key/Appear.anim
+- Assets/excludedfrombuild/Models/Dove/Textures/DoveFeathers_D.png
+- Assets/excludedfrombuild/Textures/Book/French/Page_En_08_R.jpg
+- Assets/excludedfrombuild/Models/InvisibleDissolve.mat
+- Assets/excludedfrombuild/Animations/IntroCard/CardFadeIn.anim
+- Assets/excludedfrombuild/Models/Book/Materials/English/Page_En_03_R.mat
+- Assets/excludedfrombuild/Models/Rune_Blocks/Rune_Block_08.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Club03_00.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Audio/Root.wav
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Trail48cg.mat
+- Assets/excludedfrombuild/Textures/Book/German/Page_Ger_05_L.jpg
+- Assets/excludedfrombuild/Models/Book/Materials/English/Page_En_03_L.mat
+- Assets/excludedfrombuild/Models/Book/Materials/English/Page_En_08_R.mat
+- Assets/excludedfrombuild/AGP/Swipe Right.prefab
+- Assets/excludedfrombuild/Models/Book/Materials/German/Page_Ger_08_L.mat
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_UI_Ice_Select.wav
+- Assets/excludedfrombuild/Models/Rune_Blocks/Rune_Block_04.mat
+- Assets/excludedfrombuild/Models/Dove/Animations/dove@landing.FBX
+- Assets/excludedfrombuild/SFX/Voices/en_audio_sand_tiles.mp3
+- Assets/excludedfrombuild/Textures/Potion_02/Potion_02_Bottle_02_Mat_Normal.png
+- Assets/excludedfrombuild/Textures/Book/English/Page_En_03_L.jpg
+- Assets/excludedfrombuild/Models/Dove/Shaders/Standard Two Sided Soft Blend.shader
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/Distortion2.png
+- Assets/excludedfrombuild/Video Player/Tone-Marker-3-Freezed-Image.jpg
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect4/Trail.mat
+- Assets/excludedfrombuild/Models/Cosmos_Cube/Puzzle_3.controller
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Gradient3r.png
+- Assets/excludedfrombuild/Animations/Book.controller
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Trail64.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/PerlinNoiseAlpha.png
+- Assets/excludedfrombuild/Models/Scale/ScaleMaterial.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Heart01_00_col.tif
+- Assets/excludedfrombuild/Models/Potions/PotionWind_MeshEffect.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Gradient17.png
+- Assets/excludedfrombuild/Models/Eye_frames/Eye_frame_04.fbx
+- Assets/excludedfrombuild/SFX/Interface and Item Sounds/Coins (1).wav
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Noise84cg2.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Trails73cg2.mat
+- Assets/excludedfrombuild/Textures/Potion_04/Potion_4_Normal.jpg
+- Assets/excludedfrombuild/Textures/Music sand cards/Music_sand_card_07.jpg
+- Assets/excludedfrombuild/Models/Wizard's Staff/Wizard's Staff_Material_Nature.mat
+- Assets/excludedfrombuild/Video Player/Video Texture.renderTexture
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Diamond09_00_col.tif
+- Assets/excludedfrombuild/Models/Crown_Key/Crown_Key_Symbol_Paterns.fbx
+- Assets/excludedfrombuild/Textures/Coins/Coin_01_face_A.png
+- Assets/excludedfrombuild/Textures/Portals End/P1_Mat_Emission.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/Fire2.png
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_MetallicSmoothness.jpg
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Shaders/Scroll.shader
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Spade11_00_col.tif
+- Assets/excludedfrombuild/SFX/Voices/de_audio_endcurse.mp3
+- Assets/excludedfrombuild/Textures/Book Key/3_Atlas_1024_MetallicSmoothness.png
+- Assets/excludedfrombuild/Animations/Potions/VFX Wind activation.anim
+- Assets/excludedfrombuild/Models/Cosmos_Cube/Puzzle_3_shine_part_01.mat
+- Assets/excludedfrombuild/HumanShaderPackURP/EyeShaderURP/Textures/Masks/MaskIrisDashes.png
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Spade10_00_col.tif
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Flare20cg.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect4/DecalRing
+  1.mat
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_07/Rune_Block_07_Normal.png
+- Assets/excludedfrombuild/Textures/Portals End/P2_Mat_Normal.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/PerlinNoiseGray3.png
+- Assets/excludedfrombuild/Models/Potions/Bottle_02_Mat.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Audio/RockImpact.wav
+- Assets/excludedfrombuild/Models/Eye_frames/Eye_frame_05/Eye_frame_05_substance_EyeFrame_05_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/SFX/Sci-Fi Sounds/Click 11.wav
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Materials/Effect7/Mesh_MeshEffect.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Club10_00_col.tif
+- Assets/excludedfrombuild/Animations/Eye_Frame_02/Eye_Frame_02.controller
+- Assets/excludedfrombuild/Animations/Portal_End_02/P2_Solved.anim
+- Assets/excludedfrombuild/Textures/Book/French/Page_Fr_02_L.jpg
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Shaders/Lightning.shader
+- Assets/excludedfrombuild/Textures/Music sand cards/Music_sand_card_06.jpg
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Materials/Effect10/Particles.mat
+- Assets/excludedfrombuild/Models/Book/Materials/German/Page_Ger_01_R.mat
+- Assets/excludedfrombuild/Textures/Music sand cards/Music_sand_card_02.jpg
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/rock_normal.png
+- Assets/excludedfrombuild/Textures/Potion_03/Potion_3_Glass_AlbedoTransparency.png
+- Assets/excludedfrombuild/Textures/Coins/Coin_02_face_B.png
+- Assets/excludedfrombuild/Textures/Book/German/Page_Ger_06_R.jpg
+- Assets/excludedfrombuild/Models/Dove/Dove.controller
+- Assets/excludedfrombuild/Textures/Music sand cards/Music_sand_card_01.jpg
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Noise84.png
+- Assets/excludedfrombuild/Models/Key_Marker_02.mat
+- Assets/excludedfrombuild/Textures/Crown_Key/Crown_Key_Base_Color.jpg
+- Assets/excludedfrombuild/Animations/Eye_Frame_02/Solved.anim
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/Green_Heart09.jpg
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Flare2.png
+- Assets/excludedfrombuild/Textures/Eye_frame_03/Eye_frame_03_Emission.png
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Spade03_00_col.tif
+- Assets/excludedfrombuild/Textures/Portals End/P2_Mat_Mixed_AO.jpg
+- Assets/excludedfrombuild/Textures/Book/German/Page_Ger_04_L.jpg
+- Assets/excludedfrombuild/Textures/Book/German/Page_Ger_03_R.jpg
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Potion_Bottle_Cork_Pop.wav
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Diamond03_00.mat
+- Assets/excludedfrombuild/Animations/Portal_End_02/Portal_End_02.controller
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Aulora1cg.mat
+- Assets/excludedfrombuild/Textures/Coins/Coins_Coin_MetallicSmoothness.png
+- Assets/excludedfrombuild/Animations/Eye_Frame_04/Idle.anim
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/Fog5.png
+- Assets/excludedfrombuild/Textures/Potion_01/Potion_01_Bottle_01_Mat_Normal.png
+- Assets/excludedfrombuild/Models/Dove/Animations/dove@takeoff.FBX
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_04/Rune_Block_04_Normal.png
+- Assets/excludedfrombuild/SFX/Interface and Item Sounds/Special & Powerup (6).wav
+- Assets/excludedfrombuild/Textures/Book/Book_Leather_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Material_Wood_Lever_5.wav
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/Yellow_Diamond07.jpg
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Models/PortalMaskExtrude.FBX
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/Reflection.cubemap
+- Assets/excludedfrombuild/Models/Book/Closing.R_with_particles.anim
+- Assets/excludedfrombuild/Textures/Crown_Key/Crown_Key_Mixed_AO.jpg
+- Assets/excludedfrombuild/HumanShaderPackURP/EyeShaderURP/Textures/Masks/MaskShape2.jpg
+- Assets/excludedfrombuild/Animations/Runes Loading/Rune.controller
+- Assets/excludedfrombuild/Textures/Hat/Hat_Hat_Mat_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/AGP/Hold.prefab
+- Assets/excludedfrombuild/Animations/Portal_End_01/P1_Appear.anim
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/CraterDecalMask3.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Models/QuadToCircle4.fbx
+- Assets/excludedfrombuild/Animations/Dove_Card_Button/Intro_Card_Wait.anim
+- Assets/excludedfrombuild/Models/Crown_Key/Crown_Key_P2.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/Purple_Spade04.jpg
+- Assets/excludedfrombuild/Animations/Potions/VFX Ice start wait.anim
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Materials/Effect1/ExplosionCore.mat
+- Assets/excludedfrombuild/Textures/Potion_03/Potion_3_Glass_MetallicSmoothness.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Noise59.png
+- Assets/excludedfrombuild/Textures/Potion_01/Potion_01_Bottle_01_Mat_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/Video Player/Tone-Marker-2-Freezed-Image.jpg
+- Assets/excludedfrombuild/Textures/Book/German/Page_Ger_05_R.jpg
+- Assets/excludedfrombuild/Models/Dove/Animations/dove@flyleft.FBX
+- Assets/excludedfrombuild/Models/Book/Materials/French/Page_Fr_01_R.mat
+- Assets/excludedfrombuild/Animations/Potion_Button/Button_Reset.anim
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Textures/IceNorm2.jpg
+- Assets/excludedfrombuild/Models/Dove/Animations/dove@walk.FBX
+- Assets/excludedfrombuild/Video Player/German/ESCAPEROOM_Outro_def-1080x1080 12.mp4
+- Assets/excludedfrombuild/AGP/Source/Sprites/Shrink.png
+- Assets/excludedfrombuild/SFX/Interface and Item Sounds/Book Page (3).mp3
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Diamond05_00.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/Smoke2.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Flare4.png
+- Assets/excludedfrombuild/Animations/IntroCard/CardFadeOut.anim
+- Assets/excludedfrombuild/Textures/GemSlots/P1_Gem_slots_MetallicSmoothness.png
+- Assets/excludedfrombuild/AGP/Animators/Zoom In.controller
+- Assets/excludedfrombuild/Models/Dove/Animations/dove@eat.FBX
+- Assets/excludedfrombuild/SFX/Interface and Item Sounds/Click (6).wav
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Magic_Key_Pick_Up_3.wav
+- Assets/excludedfrombuild/Models/Crown_Key/Crown_Key_P3.mat
+- Assets/excludedfrombuild/Animations/Potion_Button/PotionButton.controller
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_08/Rune_Block_08_Emission.png
+- Assets/excludedfrombuild/Models/Book/Materials/German/Page_Ger_03_R.mat
+- Assets/excludedfrombuild/Models/Rune_Blocks/Rune_Block_01.mat
+- Assets/excludedfrombuild/Textures/Music sand cards/Music_sand_card_10.jpg
+- Assets/excludedfrombuild/Animations/Portal_End_01/P1_StartWait.anim
+- Assets/excludedfrombuild/Animations/Portal_End_01/P1_Wait.anim
+- Assets/excludedfrombuild/Models/Book/Materials/French/Page_Fr_06_L.mat
+- Assets/excludedfrombuild/Textures/Potion_01/Potion_01_Bottle_01_Mat_MetallicSmoothness.png
+- Assets/excludedfrombuild/Textures/Eye_frame_01/Eye_frame_01_EyeFrame_01_Normal.png
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Club01_00_col.tif
+- Assets/excludedfrombuild/Textures/GemSlots/P1_Gem_slots_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/Animations/Scale/Scale.controller
+- Assets/excludedfrombuild/Textures/Book/English/Page_En_04_L.jpg
+- Assets/excludedfrombuild/Textures/Eye_frame_03/Eye_frame_03_MetallicSmoothness.png
+- Assets/excludedfrombuild/Models/Cosmos_Cube/Puzzle_3_part_1_blur.png
+- Assets/excludedfrombuild/Models/Book/Opening.R_with_particles.anim
+- Assets/excludedfrombuild/Animations/Eye_Frame_05/Solved.anim
+- Assets/excludedfrombuild/Animations/Potions/VFX Ice activation.anim
+- Assets/excludedfrombuild/SFX/Interface and Item Sounds/Special & Powerup (4).wav
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/TeleportParticles.png
+- Assets/excludedfrombuild/Models/Book/Materials/German/Page_Ger_05_R.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Noise69bcg2.mat
+- Assets/excludedfrombuild/Models/Crown_Key/Crown_Key_Eye_Circle.fbx
+- Assets/excludedfrombuild/Textures/Book/German/Page_Ger_04_R.jpg
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/Wave1.png
+- Assets/excludedfrombuild/Animations/Eye_Frame_02/Idle.anim
+- Assets/excludedfrombuild/Animations/Potions/VFX Ice activated.anim
+- Assets/excludedfrombuild/Models/Dove/Textures/DoveFeathers_N.png
+- Assets/excludedfrombuild/Models/Book Key/Book Key.fbx
+- Assets/excludedfrombuild/Textures/GemSlots/P2_Gem_slots_Emission.png
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Spade03_00.mat
+- Assets/excludedfrombuild/Video Player/Tone-Marker-4-Freezed-Image.jpg
+- Assets/excludedfrombuild/Animations/IntroCard/IntroCardFade.controller
+- Assets/excludedfrombuild/Models/Book/Materials/English/Page_En_02_L.mat
+- Assets/excludedfrombuild/Models/Eye_frames/EyeFrame_01.mat
+- Assets/excludedfrombuild/SFX/Dove_Flight.mp3
+- Assets/excludedfrombuild/Animations/TextFade/FadeIn.anim
+- Assets/excludedfrombuild/Models/Wizard's Staff/Wizard's Staff_Material_Ice.mat
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_06/Rune_Block_06_Normal.png
+- Assets/excludedfrombuild/Video Player/German/ESCAPEROOM_Envelope-5_def-1080x1080
+  11.mp4
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/smoke1Norm.png
+- Assets/excludedfrombuild/Models/ParticleSparkle.mat
+- Assets/excludedfrombuild/Textures/Potion_02/Potion_02_Bottle_02_Glass_Normal.png
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Textures/TiledNormal2.png
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Materials/Effect6/Fog.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/TiledNormal3.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/TiledNormal4.png
+- Assets/excludedfrombuild/Models/Music sand cards/Card_06.mat
+- Assets/excludedfrombuild/Models/Gems/Magic_Gem_7.fbx
+- Assets/excludedfrombuild/Video Player/German/ESCAPEROOM_ToneMarker-3_def-1080x1080
+  4.mp4
+- Assets/excludedfrombuild/AGP/Animators/Hold.controller
+- Assets/excludedfrombuild/SFX/Tones/Tone_02.MP3
+- Assets/excludedfrombuild/Models/Crown_Key/Crown_Key.fbx
+- Assets/excludedfrombuild/Textures/Book/French/Page_Fr_06_L.jpg
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Diamond01_00_col.tif
+- Assets/excludedfrombuild/Models/Dice/dice_high.FBX
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Diamond06_00_col.tif
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Gradient6.png
+- Assets/excludedfrombuild/Models/Book/Book.fbx
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Models/Portal.FBX
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Shaders/Blend_LinePath.shader
+- Assets/excludedfrombuild/Textures/Book/Book_Leather_Normal.jpg
+- Assets/excludedfrombuild/Animations/Card Tower/Card_Tower_BuildUp.anim
+- Assets/excludedfrombuild/Models/Book/Materials/English/Page_En_05_R.mat
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_01/Rune_Block_01_Emission.png
+- Assets/excludedfrombuild/AGP/Source/Hand.prefab
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/FrostDecal1_1.png
+- Assets/excludedfrombuild/Textures/Eye_frame_04/Eye_frame_04_EyeFrame_04_MetallicSmoothness.png
+- Assets/excludedfrombuild/Textures/TarotCard/TarotCard_Diffuse_GE.png
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Diamond01_00.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Aulora1.png
+- Assets/excludedfrombuild/Models/Book/Materials/German/Page_Ger_02_L.mat
+- Assets/excludedfrombuild/Animations/Portal_End_02/P2_Appear.anim
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_03/Rune_Block_03_Emission.png
+- Assets/excludedfrombuild/Models/Gems/Magic_Gem_19.fbx
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Textures/lightning3.png
+- Assets/excludedfrombuild/Models/Key_Marker_01.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Gradient17cg2.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect9/Ice.mat
+- Assets/excludedfrombuild/Animations/Runes Loading/Rune Glow.anim
+- Assets/excludedfrombuild/Textures/Potion_02/Potion_02_Bottle_02_Mat_MetallicSmoothness.png
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Textures/Snoke5.png
+- Assets/excludedfrombuild/Models/Eye_frames/Eye_frame_05/Eye_frame_05_substance_EyeFrame_05_MetallicSmoothness.png
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Materials/Effect13/IceParticles.mat
+- Assets/excludedfrombuild/SFX/Voices/DE_You-may-open.mp3
+- Assets/excludedfrombuild/Models/Coins/Coin.mat
+- Assets/excludedfrombuild/Animations/Eye_Frame_03/Appear.anim
+- Assets/excludedfrombuild/Models/Potions/Bottle_04_Mat.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Club03_00_col.tif
+- Assets/excludedfrombuild/HumanShaderPackURP/EyeShaderURP/Textures/NormalMapBase.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Materials/Effect1/IntroCardParticlesTrail.mat
+- Assets/excludedfrombuild/Textures/Crown_Key/Crown_Key_Eye_Circle_MetallicSmoothness.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/Ice.tif
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect27/Rock
+  2.mat
+- Assets/excludedfrombuild/SFX/Tones/Tone_08.MP3
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Diamond07_00_col.tif
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Materials/Effect13/Mesh_MeshEffect.mat
+- Assets/excludedfrombuild/SFX/Voices/en_audio_portals_gem_gliding.mp3
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_02/Rune_Block_02_Normal.png
+- Assets/excludedfrombuild/Models/Book/Materials/English/Page_En_07_L.mat
+- Assets/excludedfrombuild/Models/Portals end/P2_Mat.mat
+- Assets/excludedfrombuild/Textures/Hat/Hat_Hat_Mat_MetallicSmoothness.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/CraterDecalMask3.png
+- Assets/excludedfrombuild/Models/Tarot Card/TarotCard_FR.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect9/Fog
+  4.mat
+- Assets/excludedfrombuild/Models/Dove/Animations/dove@turnright.FBX
+- Assets/excludedfrombuild/Models/Portals end/P1_GemSlots.fbx
+- Assets/excludedfrombuild/Textures/Book/Book_Page_empty.jpg
+- Assets/excludedfrombuild/Animations/CrownKey/CrownKey.controller
+- Assets/excludedfrombuild/Models/Book/Closing.L.anim
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Prefabs/Nature buff cast.prefab
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Heart11_00_col.tif
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/Fire1.png
+- Assets/excludedfrombuild/Animations/Eye_Frame_03/Eye_Frame_03.controller
+- Assets/excludedfrombuild/Video Player/English/ToneMarker 4 Take 1.mp4
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Spade13_00_col.tif
+- Assets/excludedfrombuild/Textures/Scale/Scale_ScaleMaterial_Emission.jpg
+- Assets/excludedfrombuild/HumanShaderPackURP/EyeShaderURP/Textures/Sclera1_normal.png
+- Assets/excludedfrombuild/Models/Tarot Card/TarotCard_EN.mat
+- Assets/excludedfrombuild/SFX/Voices/de_audio_portals_gem_gliding.mp3
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Flare6.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Flare28cg.mat
+- Assets/excludedfrombuild/Models/Crown_Key/Crown_Key_Symbol_Patern_P2.mat
+- Assets/excludedfrombuild/Textures/Portals End/P2_Mat_Emission.png
+- Assets/excludedfrombuild/Animations/Scale/Wait.anim
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Models/Crystal.FBX
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Textures/Fog3.png
+- Assets/excludedfrombuild/Models/Book/Materials/German/Page_Ger_02_R.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Textures/IceNormal.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/TeleportParticles2.png
+- Assets/excludedfrombuild/SFX/Interface and Item Sounds/Coins (2).wav
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Noise29.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect5/Particles.mat
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Materials/Effect7/Particle.mat
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Item_Totem_Scroll_E.wav
+- Assets/excludedfrombuild/Models/Gems/Turquoise.mat
+- Assets/excludedfrombuild/Models/Wizard's Staff/wstaff.fbx
+- Assets/excludedfrombuild/SFX/Book_Open.mp3
+- Assets/excludedfrombuild/Animations/TextFade/TextMeshFade.controller
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Glow1.png
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Textures/SmokeTile2.png
+- Assets/excludedfrombuild/SFX/Tones/Tone_05.MP3
+- Assets/excludedfrombuild/Models/Book/Materials/IceFog 1.mat
+- Assets/excludedfrombuild/Animations/Eye_Frame_04/Appear.anim
+- Assets/excludedfrombuild/Textures/Book/French/Page_Fr_03_L.jpg
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Materials/Effect1/IntroCardParticles.mat
+- Assets/excludedfrombuild/Textures/Book/French/Page_Fr_04_R.jpg
+- Assets/excludedfrombuild/Textures/Book/French/Page_Fr_07_R.jpg
+- Assets/excludedfrombuild/Animations/Potions/VFX Wind activated.anim
+- Assets/excludedfrombuild/Models/Gems/Magic_Gem_18.fbx
+- Assets/excludedfrombuild/Models/Music sand cards/Card_01.mat
+- Assets/excludedfrombuild/Textures/Book Key/3_Atlas_1024_Normal.png
+- Assets/excludedfrombuild/Textures/Eye_frame_04/Eye_frame_04_EyeFrame_04_Emission.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Trail6.png
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Material_Wood_Lever_4.wav
+- Assets/excludedfrombuild/Models/Rune_Blocks/Rune_Block_03.mat
+- Assets/excludedfrombuild/Textures/Crown_Key/Crown_Key_Eye_Circle_Normal.png
+- Assets/excludedfrombuild/SFX/Sci-Fi Sounds/Synth Whoosh 4_1.wav
+- Assets/excludedfrombuild/Models/Gems/Turquoise.png
+- Assets/excludedfrombuild/Models/Potions/Potion_04.fbx
+- Assets/excludedfrombuild/Animations/Eye_Frame_04/Eye_Frame_04.controller
+- Assets/excludedfrombuild/Textures/Book/German/Page_Ger_02_L.jpg
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Materials/Effect10/Decal
+  2.mat
+- Assets/excludedfrombuild/Textures/TarotCard/TarotCard_Diffuse_FR.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Noise41.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v1/Materials/Effect10/Explosion
+  2.mat
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Textures/Noise.png
+- Assets/excludedfrombuild/Animations/Potions/VFX Nature start wait.anim
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Distortion.mat
+- Assets/excludedfrombuild/Models/Dice/dice_4_Spade.mat
+- Assets/excludedfrombuild/Models/Book/Materials/French/Page_Fr_08_L.mat
+- Assets/excludedfrombuild/Models/Potions/Bottle_03_Mat.mat
+- Assets/excludedfrombuild/Video Player/English/en_video_intro_new.mp4
+- Assets/excludedfrombuild/Textures/Book/English/Page_En_08_R.jpg
+- Assets/excludedfrombuild/Models/Eye_frames/Eye_frame_01.fbx
+- Assets/excludedfrombuild/Animations/Scale/LeftSelected.anim
+- Assets/excludedfrombuild/SFX/Book_Close.mp3
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Heart10_00.mat
+- Assets/excludedfrombuild/Textures/Book/English/Page_En_06_R.jpg
+- Assets/excludedfrombuild/Models/Gems/Rainbow.png
+- Assets/excludedfrombuild/Textures/Book/English/Page_En_02_R.jpg
+- Assets/excludedfrombuild/Textures/Eye_frame_04/Eye_frame_04_EyeFrame_04_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/Models/Book/OpenWait_PageOnRight.anim
+- Assets/excludedfrombuild/Animations/Eye_Frame_Key/Eye_Frame_Key.controller
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Textures/Distortion2.png
+- Assets/excludedfrombuild/Models/Dove/Materials/No Name.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Heart08_00_col.tif
+- Assets/excludedfrombuild/Textures/Eye_frame_01/Eye_frame_01_EyeFrame_01_Emission.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/PerlinNoiseGray4.png
+- Assets/excludedfrombuild/Textures/Wizard's Staff/Wizard's Staff_2048_AlbedoTransparency.png
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Shaders/Distortion.shader
+- Assets/excludedfrombuild/HumanShaderPackURP/EyeShaderURP/Textures/Masks/IrisParallaxHeight.png
+- Assets/excludedfrombuild/Models/Cosmos_Cube/Puzzle_3_part_4_blur.png
+- Assets/excludedfrombuild/Models/Gems/Magic_Gem_11.fbx
+- Assets/excludedfrombuild/Models/Cosmos_Cube/Puzzle_3_shine_part_02.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Diamond09_00.mat
+- Assets/excludedfrombuild/HumanShaderPackURP/EyeShaderURP/Materials/EyeShader3/Custom_EyeShader3_BlueEye.mat
+- Assets/excludedfrombuild/Models/Gems/Magic_Gem_6.fbx
+- Assets/excludedfrombuild/Animations/Eye_Frame_03/Idle.anim
+- Assets/excludedfrombuild/Models/Potions/Bottle_04_Glass.mat
+- Assets/excludedfrombuild/Animations/Scale/Error.anim
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Smoke24.png
+- Assets/excludedfrombuild/Textures/Portals End/P1_Mat_Normal.png
+- Assets/excludedfrombuild/Models/Portals end/Portal_01.fbx
+- Assets/excludedfrombuild/SFX/Interface and Item Sounds/Coins (6).wav
+- Assets/excludedfrombuild/Textures/Crown_Key/Crown_Key_Crown_Key_MetallicSmoothness.jpg
+- Assets/excludedfrombuild/SFX/Voices/de_audio_sand_tiles.mp3
+- Assets/excludedfrombuild/HumanShaderPackURP/EyeShaderURP/Textures/Masks/MaskIrisRealistic.png
+- Assets/excludedfrombuild/Models/Dove/Animations/dove@idle.FBX
+- Assets/excludedfrombuild/Animations/Potion_Button/Button_Reveal.anim
+- Assets/excludedfrombuild/SFX/Voices/EN_You-may-open.mp3
+- Assets/excludedfrombuild/Textures/Music sand cards/Music_sand_card_05.jpg
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Noise79.png
+- Assets/excludedfrombuild/SFX/Voices/DE_Do-not-Open.mp3
+- Assets/excludedfrombuild/Textures/Coins/Coin_03_face_B.png
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Spade06_00.mat
+- Assets/excludedfrombuild/Textures/Rune blocks/Rune_Block_07/Rune_Block_07_Emission.png
+- Assets/excludedfrombuild/Textures/Dice/dice_01_Club_Albedo.png
+- Assets/excludedfrombuild/Textures/Coins/Coins_Coin_Normal.jpg
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Materials/BackColor_Black/Black_PlayingCards_Heart04_00.mat
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Spade12_00_col.tif
+- Assets/excludedfrombuild/Animations/Eye_Frame_01/Eye_Frame_01.controller
+- Assets/excludedfrombuild/Models/Cosmos_Cube/Puzzle_3_shine_part_04.mat
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Material_Wood_Lever_3.wav
+- Assets/excludedfrombuild/Animations/Keypads/FadeOut.anim
+- Assets/excludedfrombuild/Textures/Potion_03/Potion_3_MetallicSmoothness.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Audio/FireExplosion2.wav
+- Assets/excludedfrombuild/Models/Book/Materials/French/Page_Fr_02_R.mat
+- Assets/excludedfrombuild/AGP/Animators/Tap.controller
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Trail52.png
+- Assets/excludedfrombuild/Models/Crown_Key/Symbol_Patern.jpg
+- Assets/excludedfrombuild/Textures/Book/French/Page_Fr_04_L.jpg
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/Trail64Path.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/CircleRainbow11.png
+- Assets/excludedfrombuild/Video Player/German/ESCAPEROOM_Envelope-3_def-1080x1080
+  8.mp4
+- Assets/excludedfrombuild/Textures/Book/French/Page_Fr_05_L.jpg
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Textures/PortalFog1.png
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Materials/Effect18/Distortion.mat
+- Assets/excludedfrombuild/Models/Book/Materials/English/Page_En_02_R.mat
+- Assets/excludedfrombuild/Models/Eye_frames/Eye_frame_06.fbx
+- Assets/excludedfrombuild/Models/Potions/Bottle_01_Mat.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Audio/Tornado.wav
+- Assets/excludedfrombuild/SFX/Voices/de_audio_portals_solved.mp3
+- Assets/excludedfrombuild/Textures/Dice/dice_02_Diamond_Albedo.png
+- Assets/excludedfrombuild/HumanShaderPackURP/EyeShaderURP/Textures/NormalMapSofter.png
+- Assets/excludedfrombuild/Textures/Scale/Scale_ScaleMaterial_Normal.png
+- Assets/excludedfrombuild/Video Player/English/Envelope 5 Take 2.mp4
+- Assets/excludedfrombuild/Models/Playing Cards/Image/PlayingCards/Diamond01.png
+- Assets/excludedfrombuild/Animations/Eye_Frame_04/Solved.anim
+- Assets/excludedfrombuild/Textures/Book/French/Page_Fr_05_R.jpg
+- Assets/excludedfrombuild/KriptoFX/MeshEffect/Textures/SmokeTile4.png
+- Assets/excludedfrombuild/Models/Tarot Card/TarotCard.mat
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Audio/FireExplosion3.wav
+- Assets/excludedfrombuild/Video Player/English/Outro Take 2.mp4
+- Assets/excludedfrombuild/Animations/Portal_End_02/P2_StartWait.anim
+- Assets/excludedfrombuild/Textures/Wizard's Staff/Wizard's Staff_2048_Normal.png
+- Assets/excludedfrombuild/Models/Gems/Pink.mat
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Textures/Noise69.png
+- Assets/excludedfrombuild/SFX/Tones/Tone_00.MP3
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Models/Anim27.controller
+- Assets/excludedfrombuild/Textures/Potion_03/Potion_3_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/SFX/Tones/Tone_07.MP3
+- Assets/excludedfrombuild/Animations/Eye_Frame_Key/Wait_End.anim
+- Assets/excludedfrombuild/Models/Playing Cards/Resource/Textures/PlayingCards_Club09_00_col.tif
+- Assets/excludedfrombuild/Models/Dove/Animations/dove@turnleft.FBX
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Shaders/BlendDistort.shader
+- Assets/excludedfrombuild/Models/Playing Cards/Image/PlayingCards/Diamond05.png
+- Assets/excludedfrombuild/KriptoFX/Realistic Effects Pack v4/Effects/Materials/Effect9/Decal
+  1.mat
+- Assets/excludedfrombuild/Textures/Book/English/Page_En_07_L.jpg
+- Assets/excludedfrombuild/Animations/Eye_Frame_03/Solved.anim
+- Assets/excludedfrombuild/Models/Portals end/P_Mask.mat
+- Assets/excludedfrombuild/Textures/Crown_Key/Crown_Key_Crown_Key_Normal.png
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Craft_Fire_Forge_Burn_1.wav
+- Assets/excludedfrombuild/Models/Book Key/3_Gold_1024_AlbedoTransparency.mat
+- Assets/excludedfrombuild/SFX/Tones/Tone_10.MP3
+- Assets/excludedfrombuild/Video Player/English/Envelope 3 Take 1.mp4
+- Assets/excludedfrombuild/Textures/Wizard's Staff/Wizard's Staff_2048_Emission.png
+- Assets/excludedfrombuild/Models/Music sand cards/Card_09.mat
+- Assets/excludedfrombuild/SFX/Fantasy_Game_16bit/Fantasy_Game_Item_Potion_Bottle_A.wav
+- Assets/excludedfrombuild/Hovl Studio/White mage spells/Materials/SoftNoise79cg.mat
+- Assets/excludedfrombuild/Textures/Eye_frame_01/Eye_frame_01_EyeFrame_01_AlbedoTransparency.jpg
+- Assets/excludedfrombuild/SFX/Voices/de_audio_vibro.mp3
+Dependencies:
+- D:/Work/_/work/Job/escaperoomspiele.com/Vuforia Unity 2020/The Magician's Curse/Assets/AssetPacks/shaders
+- D:/Work/_/work/Job/escaperoomspiele.com/Vuforia Unity 2020/The Magician's Curse/Assets/AssetPacks/ui_icons

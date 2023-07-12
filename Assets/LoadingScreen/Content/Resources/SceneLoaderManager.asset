@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7decf71d60cb2fe438b4d9a0a160a517, type: 3}
+  m_Name: SceneLoaderManager
+  m_EditorClassIdentifier: 
+  List:
+    array:
+    - SceneName: MainMenu
+      SceneAsset: {fileID: 102900000, guid: 065a9b4dde630b544aa50e3f64761b7e, type: 3}
+      DisplayNameEnglish: Display Name English
+      DisplayNameFrench: Display Name French
+      DisplayNameGerman: Display Name German
+      Description: Loading ...
+      SkipType: 0
+      LoadingType: 1
+      FakeLoadingTime: 6
+      Backgrounds: []
+    - SceneName: Chapter 0
+      SceneAsset: {fileID: 102900000, guid: 64fc5f24059afe343a2aefdb5d252b1e, type: 3}
+      DisplayNameEnglish: "\u0112\u0110EL"
+      DisplayNameFrench: "\u0112\u0110EL"
+      DisplayNameGerman: "\u0112\u0110EL"
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 8
+      Backgrounds: []
+    - SceneName: Chapter 1
+      SceneAsset: {fileID: 102900000, guid: 386d4f324ac951242aa2a67529f1d297, type: 3}
+      DisplayNameEnglish: ING
+      DisplayNameFrench: ING
+      DisplayNameGerman: ING
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 8
+      Backgrounds: []
+    - SceneName: Chapter 2
+      SceneAsset: {fileID: 102900000, guid: 1eb424157c52b64409e0c1fae51ea1a4, type: 3}
+      DisplayNameEnglish: "\xD3SS"
+      DisplayNameFrench: "\xD3SS"
+      DisplayNameGerman: "\xD3SS"
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 8
+      Backgrounds: []
+    - SceneName: Chapter 3
+      SceneAsset: {fileID: 102900000, guid: f5716a2ff603b0e44a9aea4ca4ef4e15, type: 3}
+      DisplayNameEnglish: "MA\u0110R"
+      DisplayNameFrench: "MA\u0110R"
+      DisplayNameGerman: "MA\u0110R"
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 8
+      Backgrounds: []
+    - SceneName: Chapter 4
+      SceneAsset: {fileID: 102900000, guid: 00c28fd55e3c4b44aa9495c270e4cc81, type: 3}
+      DisplayNameEnglish: EOLH
+      DisplayNameFrench: EOLH
+      DisplayNameGerman: EOLH
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 8
+      Backgrounds: []
+    - SceneName: Chapter 5
+      SceneAsset: {fileID: 102900000, guid: b04804625f6e4f7478a6552ca1274da9, type: 3}
+      DisplayNameEnglish: BEORC
+      DisplayNameFrench: BEORC
+      DisplayNameGerman: BEORC
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 8
+      Backgrounds: []
+    - SceneName: Chapter 6
+      SceneAsset: {fileID: 102900000, guid: 45879681c70fe014e85dac34e9de367d, type: 3}
+      DisplayNameEnglish: "T\u012AR"
+      DisplayNameFrench: "T\u012AR"
+      DisplayNameGerman: "T\u012AR"
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 8
+      Backgrounds: []
+    - SceneName: Chapter 7
+      SceneAsset: {fileID: 102900000, guid: cad1b11da3c17ba47bee75774008c1cd, type: 3}
+      DisplayNameEnglish: "PEOR\u0110"
+      DisplayNameFrench: "PEOR\u0110"
+      DisplayNameGerman: "PEOR\u0110"
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 8
+      Backgrounds: []
+    - SceneName: Gameselector
+      SceneAsset: {fileID: 102900000, guid: 7da8f534a221541078a4baba789e0820, type: 3}
+      DisplayNameEnglish: Gameselector
+      DisplayNameFrench: Display Name French
+      DisplayNameGerman: Display Name German
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+    - SceneName: InvitationAR
+      SceneAsset: {fileID: 102900000, guid: d24df920349b945e783c480510140b9f, type: 3}
+      DisplayNameEnglish: InvitationAR
+      DisplayNameFrench: Display Name French
+      DisplayNameGerman: Display Name German
+      Description: 
+      SkipType: 3
+      LoadingType: 0
+      FakeLoadingTime: 2
+      Backgrounds: []
+  TipListEnglish:
+    array:
+    - Make sure your device has enough battery for the game session
+    - Your camera needs enough light to detect the markers correctly.
+    - More games on escaperoomspiele.com
+  TipListFrench:
+    array:
+    - Assurez-vous que votre appareil dispose de suffisamment de batterie pour la
+      session de jeu
+    - "Votre appareil photo a besoin de suffisamment de lumi\xE8re pour d\xE9tecter
+      correctement les marqueurs."
+    - Plus de jeux sur escaperoomspiele.com
+  TipListGerman:
+    array:
+    - "Stellen Sie sicher, dass Ihr Ger\xE4t \xFCber gen\xFCgend Akku f\xFCr die
+      Spielsitzung verf\xFCgt"
+    - "Ihre Kamera ben\xF6tigt gen\xFCgend Licht, um die Markierungen korrekt zu
+      erkennen."
+    - Weitere Spiele auf escaperoomspiele.com

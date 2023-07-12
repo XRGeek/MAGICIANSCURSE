@@ -1,0 +1,598 @@
+{
+    "allText": [
+        {
+            "ID": "Chapter_0_Dove_Card_Text",
+            "enumID": 23,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "Connect dot with dot, following the red and green arrows:"
+                },
+                {
+                    "language": 14,
+                    "word": "Reliez point par point en suivant les flèches rouges et vertes:"
+                },
+                {
+                    "language": 15,
+                    "word": "Verbinde Die Punke, wo es dir die roten und grünen Pfeile anzeigen:"
+                }
+            ]
+        },
+        {
+            "ID": "Chapter_0_Dove_Card_Title",
+            "enumID": 22,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "Key of Knowledge"
+                },
+                {
+                    "language": 14,
+                    "word": "Clé de la connaissance"
+                },
+                {
+                    "language": 15,
+                    "word": "Schlüssel des Wissens"
+                }
+            ]
+        },
+        {
+            "ID": "Chapter_0_EyeOpen",
+            "enumID": 14,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "You entered the code of elements, you may open the envelope."
+                },
+                {
+                    "language": 14,
+                    "word": "Vous avez saisi le code des éléments, vous pouvez ouvrir l'enveloppe."
+                },
+                {
+                    "language": 15,
+                    "word": "Wenn Sie den Code der Elemente eingegeben haben, können Sie den Umschlag öffnen."
+                }
+            ]
+        },
+        {
+            "ID": "Chapter_0_EyeWarning",
+            "enumID": 13,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "I protect the content of the envelope entrusted to me.\nOnly the one who has entered my secret code may open me.\nOpen me without it and you will be cursed for all eternity."
+                },
+                {
+                    "language": 14,
+                    "word": "Je protège le contenu de l'enveloppe qui m'est confiée.\r\nSeul celui qui a saisi mon code secret peut m'ouvrir.\r\nOuvrez-moi sans cela et vous serez maudit pour toute l'éternité."
+                },
+                {
+                    "language": 15,
+                    "word": "Ich schütze den Inhalt des mir anvertrauten Umschlags.\nNur derjenige, der meinen Geheimcode eingegeben hat, darf mich öffnen.\nÖffne mich ohne es und du wirst für alle Ewigkeit verflucht sein."
+                }
+            ]
+        },
+        {
+            "ID": "Chapter_0_Start_Message",
+            "enumID": 24,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "Search and look at me through your camera."
+                },
+                {
+                    "language": 14,
+                    "word": "Cherchez et observez-moi à travers votre caméra."
+                },
+                {
+                    "language": 15,
+                    "word": "Suche und schau mich durch deine Kamera an."
+                }
+            ]
+        },
+        {
+            "ID": "Chapter_1_EyeOpen_Message",
+            "enumID": 15,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "You entered the code of music, you may open the envelope."
+                },
+                {
+                    "language": 14,
+                    "word": "Vous avez entré le code de la musique, vous pouvez ouvrir l'enveloppe."
+                },
+                {
+                    "language": 15,
+                    "word": "Wenn Sie den Musikcode eingegeben haben, können Sie den Umschlag öffnen."
+                }
+            ]
+        },
+        {
+            "ID": "Chapter_2_EyeOpen_Message",
+            "enumID": 16,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "You entered the code of elements, you may open the envelope."
+                },
+                {
+                    "language": 14,
+                    "word": "Vous avez saisi le code des éléments, vous pouvez ouvrir l'enveloppe."
+                },
+                {
+                    "language": 15,
+                    "word": "Wenn Sie den Code der Elemente eingegeben haben, können Sie den Umschlag öffnen."
+                }
+            ]
+        },
+        {
+            "ID": "Chapter_3_EyeOpen_Message",
+            "enumID": 17,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "You entered the code of cosmos, you may open the envelope."
+                },
+                {
+                    "language": 14,
+                    "word": "Vous avez entré le code du cosmos, vous pouvez ouvrir l'enveloppe."
+                },
+                {
+                    "language": 15,
+                    "word": "Wenn Sie den Code des Kosmos eingegeben haben, können Sie den Umschlag öffnen."
+                }
+            ]
+        },
+        {
+            "ID": "Chapter_4_EyeOpen_Message",
+            "enumID": 18,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "You entered the code of ornaments, you may open the envelope."
+                },
+                {
+                    "language": 14,
+                    "word": "Vous avez entré le code des ornements, vous pouvez ouvrir l'enveloppe."
+                },
+                {
+                    "language": 15,
+                    "word": "Wenn Sie den Code der Ornamente eingegeben haben, können Sie den Umschlag öffnen."
+                }
+            ]
+        },
+        {
+            "ID": "Chapter_4_Scale_Message",
+            "enumID": 20,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "A fate has changed"
+                },
+                {
+                    "language": 14,
+                    "word": "Un destin a changé"
+                },
+                {
+                    "language": 15,
+                    "word": "Ein Schicksal hat sich geändert"
+                }
+            ]
+        },
+        {
+            "ID": "Chapter_5_EyeOpen_Message",
+            "enumID": 19,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "You entered the code of portals, you may open the envelope."
+                },
+                {
+                    "language": 14,
+                    "word": "Vous avez entré le code des portails, vous pouvez ouvrir l'enveloppe."
+                },
+                {
+                    "language": 15,
+                    "word": "Wenn Sie den Code der Portale eingegeben haben, können Sie den Umschlag öffnen."
+                }
+            ]
+        },
+        {
+            "ID": "Chapter_7_End_Message",
+            "enumID": 21,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "Congratulations"
+                },
+                {
+                    "language": 14,
+                    "word": "Félicitations"
+                },
+                {
+                    "language": 15,
+                    "word": "Herzliche Glückwünsche"
+                }
+            ]
+        },
+        {
+            "ID": "Loading_Screen_chapter_00",
+            "enumID": 5,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "ĒĐEL"
+                },
+                {
+                    "language": 14,
+                    "word": "ĒĐEL"
+                },
+                {
+                    "language": 15,
+                    "word": "ĒĐEL"
+                }
+            ]
+        },
+        {
+            "ID": "Loading_Screen_chapter_01",
+            "enumID": 6,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "ING"
+                },
+                {
+                    "language": 14,
+                    "word": "ING"
+                },
+                {
+                    "language": 15,
+                    "word": "ING"
+                }
+            ]
+        },
+        {
+            "ID": "Loading_Screen_chapter_02",
+            "enumID": 7,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "ÓSS"
+                },
+                {
+                    "language": 14,
+                    "word": "ÓSS"
+                },
+                {
+                    "language": 15,
+                    "word": "ÓSS"
+                }
+            ]
+        },
+        {
+            "ID": "Loading_Screen_chapter_03",
+            "enumID": 8,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "MAĐR"
+                },
+                {
+                    "language": 14,
+                    "word": "MAĐR"
+                },
+                {
+                    "language": 15,
+                    "word": "MAĐR"
+                }
+            ]
+        },
+        {
+            "ID": "Loading_Screen_chapter_04",
+            "enumID": 9,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "EOLH"
+                },
+                {
+                    "language": 14,
+                    "word": "EOLH"
+                },
+                {
+                    "language": 15,
+                    "word": "EOLH"
+                }
+            ]
+        },
+        {
+            "ID": "Loading_Screen_chapter_05",
+            "enumID": 10,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "BEORC"
+                },
+                {
+                    "language": 14,
+                    "word": "BEORC"
+                },
+                {
+                    "language": 15,
+                    "word": "BEORC"
+                }
+            ]
+        },
+        {
+            "ID": "Loading_Screen_chapter_06",
+            "enumID": 11,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "TĪR"
+                },
+                {
+                    "language": 14,
+                    "word": "TĪR"
+                },
+                {
+                    "language": 15,
+                    "word": "TĪR"
+                }
+            ]
+        },
+        {
+            "ID": "Loading_Screen_chapter_07",
+            "enumID": 12,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "PEORĐ"
+                },
+                {
+                    "language": 14,
+                    "word": "PEORĐ"
+                },
+                {
+                    "language": 15,
+                    "word": "PEORĐ"
+                }
+            ]
+        },
+        {
+            "ID": "Loading_Screen_Hint_01",
+            "enumID": 2,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "Make sure your device has enough battery for the game session."
+                },
+                {
+                    "language": 14,
+                    "word": "Assurez-vous que votre appareil dispose de suffisamment de batterie pour la session de jeu."
+                },
+                {
+                    "language": 15,
+                    "word": "Stellen Sie sicher, dass Ihr Gerät über genügend Akku für die Spielsitzung verfügt."
+                }
+            ]
+        },
+        {
+            "ID": "Loading_Screen_Hint_02",
+            "enumID": 3,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "Your camera needs enough light to detect the markers correctly."
+                },
+                {
+                    "language": 14,
+                    "word": "Votre caméra a besoin de suffisamment de lumière pour détecter correctement les marqueurs."
+                },
+                {
+                    "language": 15,
+                    "word": "Ihre Kamera benötigt genügend Licht, um die Markierungen korrekt zu erkennen."
+                }
+            ]
+        },
+        {
+            "ID": "Loading_Screen_Hint_03",
+            "enumID": 4,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "More games on escaperoomspiele.com"
+                },
+                {
+                    "language": 14,
+                    "word": "Plus de jeux sur escaperoomspiele.com"
+                },
+                {
+                    "language": 15,
+                    "word": "Weitere Spiele auf escaperoomspiele.com"
+                }
+            ]
+        },
+        {
+            "ID": "Main_Menu_Start_Button",
+            "enumID": 1,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "START"
+                },
+                {
+                    "language": 14,
+                    "word": "COMMENCER"
+                },
+                {
+                    "language": 15,
+                    "word": "STARTEN"
+                }
+            ]
+        },
+        {
+            "ID": "Main_Menu_Title_Part_1",
+            "enumID": 0,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "THE"
+                },
+                {
+                    "language": 14,
+                    "word": "LA"
+                },
+                {
+                    "language": 15,
+                    "word": "DER"
+                }
+            ]
+        },
+        {
+            "ID": "Main_Menu_Title_Part_2",
+            "enumID": 25,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "MAGICIAN'S\nCURSE"
+                },
+                {
+                    "language": 14,
+                    "word": "MALEDICTION\nDU MAGICIEN"
+                },
+                {
+                    "language": 15,
+                    "word": "FLUCH DES\nMAGIERS"
+                }
+            ]
+        },
+        {
+            "ID": "Main_Menu_Description",
+            "enumID": 26,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "This app is required to play the augmented reality escape room game The Magician's Curse.\n\nClick on the buttons to start the game content. For the game itself, an internet connection is no longer required."
+                },
+                {
+                    "language": 15,
+                    "word": "Diese App wird benötigt, um das Augmented Reality Escape Room Spiel „The Magician‘s Curse“ zu spielen.\n\nKlicke auf die Schaltflächen, um die Spielinhalte zu starten. Für das Spiel selber wird keine Internetverbindung mehr benötigt."
+                }
+            ]
+        },
+        {
+            "ID": "Gameselector_about",
+            "enumID": 27,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "About us"
+                },
+                {
+                    "language": 15,
+                    "word": "Über uns"
+                }
+            ]
+        },
+        {
+            "ID": "Gameselector_legal",
+            "enumID": 28,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "Legal Notice"
+                },
+                {
+                    "language": 15,
+                    "word": "Impressum"
+                }
+            ]
+        },
+        {
+            "ID": "Gameselector_contact",
+            "enumID": 29,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "Contact"
+                },
+                {
+                    "language": 15,
+                    "word": "Kontakt"
+                }
+            ]
+        },
+        {
+            "ID": "Gameselector_about_link",
+            "enumID": 30,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "https://magicians-curse.com/en/about-us/"
+                },
+                {
+                    "language": 15,
+                    "word": "https://magicians-curse.com/de/ueber-uns/"
+                }
+            ]
+        },
+        {
+            "ID": "Gameselector_legal_link",
+            "enumID": 31,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "https://magicians-curse.com/en/legal-notice/"
+                },
+                {
+                    "language": 15,
+                    "word": "https://magicians-curse.com/de/impressum/"
+                }
+            ]
+        },
+        {
+            "ID": "Gameselector_contact_link",
+            "enumID": 32,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "https://escaperoomspiele.com/kontakt/"
+                },
+                {
+                    "language": 15,
+                    "word": "https://escaperoomspiele.com/kontakt/"
+                }
+            ]
+        },
+        {
+            "ID": "Gameselector_magician_link",
+            "enumID": 33,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "https://magicians-curse.com/en"
+                },
+                {
+                    "language": 15,
+                    "word": "https://magicians-curse.com/de"
+                }
+            ]
+        },
+        {
+            "ID": "Gameselector_button_invitation",
+            "enumID": 34,
+            "translations": [
+                {
+                    "language": 10,
+                    "word": "Invitation: The Magician‘s Curse"
+                },
+                {
+                    "language": 15,
+                    "word": "EINLADUNG: THE MAGICIAN‘S CURSE"
+                }
+            ]
+        }
+    ]
+}

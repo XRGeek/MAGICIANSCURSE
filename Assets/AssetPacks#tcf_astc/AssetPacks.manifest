@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 208989532
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: imagelibraryassets
+      Dependencies: {}
+    Info_1:
+      Name: excludedfrombuild
+      Dependencies:
+        Dependency_0: ui_icons
+        Dependency_1: shaders
+    Info_2:
+      Name: ui_icons
+      Dependencies: {}
+    Info_3:
+      Name: prefabs
+      Dependencies:
+        Dependency_0: imagelibraryassets
+        Dependency_1: excludedfrombuild
+        Dependency_2: ui_icons
+    Info_4:
+      Name: shaders
+      Dependencies:
+        Dependency_0: excludedfrombuild
+    Info_5:
+      Name: scenes
+      Dependencies:
+        Dependency_0: imagelibraryassets
+        Dependency_1: excludedfrombuild
+        Dependency_2: ui_icons
+        Dependency_3: prefabs
+        Dependency_4: shaders

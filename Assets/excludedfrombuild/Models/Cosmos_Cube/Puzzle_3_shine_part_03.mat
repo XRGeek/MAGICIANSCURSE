@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Puzzle_3_shine_part_03
+  m_Shader: {fileID: -6465566751694194690, guid: e5ace3f102bd0e94b85ac6f96d4354cf,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainBackground:
+        m_Texture: {fileID: 2800000, guid: c58c26f5cabb3934fae51f46c663693f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 8baf21a362613454b8984221b6b2cc3f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: f615b9ff4441a6243af76d3f28c28a07, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _MainTilling: 5
+    - _MinBrightness: 0.1
+    m_Colors:
+    - Vector2_9661099: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_BE9B28FF: {r: 0, g: 0, b: 0, a: 0}
+    - _MainColor: {r: 0.8235294, g: 1.8509804, b: 1.8745098, a: 0}
+    - _MainTilling: {r: 2.5, g: 2.5, b: 0, a: 0}
+    - _MaskColor: {r: 1, g: 0.8469602, b: 0, a: 0}
+    - _MaskOffset: {r: 1, g: 1, b: 1, a: 1}
+    - _MaskTilling: {r: 2, g: 2, b: 0, a: 0}
+    - _Offset: {r: 0, g: 0, b: 0, a: 0}
+    - _Tilling: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

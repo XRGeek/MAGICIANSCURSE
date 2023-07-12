@@ -1,0 +1,128 @@
+ManifestFileVersion: 0
+CRC: 1257998217
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c29f23019597afaa9f521103f602ad7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2013514fe9cc708c84fd1a7cbf968bb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ui_icons/Chapter icons/Rune_07.png
+- Assets/ui_icons/Cosmos/Cosmos_07.png
+- Assets/ui_icons/CrownKeyPuzzle/CrownKeyPuzzle_P2_1.png
+- Assets/ui_icons/Zodiac/zodiac_9.png
+- Assets/ui_icons/KeyPad_numbers/KeyPad_num_7.png
+- Assets/ui_icons/KeyPad_Tiles/KeyPad_Tiles_0.png
+- Assets/ui_icons/Chapter icons/Rune_02.png
+- Assets/ui_icons/KeyPad_numbers/KeyPad_num_8.png
+- Assets/ui_icons/ScaleTileHint02.png
+- Assets/ui_icons/ScaleHints_02_C.mat
+- Assets/ui_icons/Zodiac/zodiac_1.png
+- Assets/ui_icons/Zodiac/zodiac_6.png
+- Assets/ui_icons/Keypad_Elements/Keypad_Elem_02.png
+- Assets/ui_icons/Pyramid_vibro_puzzle/Pyramid-puzzle_07.png
+- Assets/ui_icons/ScaleHints_01.mat
+- Assets/ui_icons/Zodiac/zodiac_4.png
+- Assets/ui_icons/Chapter icons/Rune_Blurry_05.png
+- Assets/ui_icons/vnum_empty.png
+- Assets/ui_icons/Icon-App_App_icon_ie.jpg
+- Assets/ui_icons/Chapter icons/Rune_04.png
+- Assets/ui_icons/Keypad_Elements/Keypad_Elem_06.png
+- Assets/ui_icons/CrownKeyPuzzle/CrownKeyPuzzle_P1_2.png
+- Assets/ui_icons/Pyramid_vibro_puzzle/Pyramid-puzzle_03.png
+- Assets/ui_icons/Cosmos/Cosmos_02.png
+- Assets/ui_icons/Cosmos/Cosmos_01.png
+- Assets/ui_icons/Scale_Hint_frame.png
+- Assets/ui_icons/Cosmos/Cosmos_09.png
+- Assets/ui_icons/CrownKeyPuzzle/CrownKeyPuzzle_P1_3.png
+- Assets/ui_icons/Chapter icons/Rune_Blurry_07.png
+- Assets/ui_icons/Pause_icon.png
+- Assets/ui_icons/KeyPad_numbers/KeyPad_num_3.png
+- Assets/ui_icons/Zodiac/zodiac_A_02 Emissive icon.mat
+- Assets/ui_icons/ScaleTileHint03.png
+- Assets/ui_icons/KeyPad_Tiles/KeyPad_Tiles_2.png
+- Assets/ui_icons/Chapter icons/Rune_05.png
+- Assets/ui_icons/OneSidedUI.mat
+- Assets/ui_icons/Keypad_Elements/Keypad_Elem_09.png
+- Assets/ui_icons/Chapter icons/Rune_06.png
+- Assets/ui_icons/KeyPad_numbers/KeyPad_num_1.png
+- Assets/ui_icons/KeyPads_Reset.png
+- Assets/ui_icons/KeyPad_Tiles/KeyPad_Tiles_4.png
+- Assets/ui_icons/Card-Intro-Popup.jpg
+- Assets/ui_icons/Keypad_Elements/Keypad_Elem_03.png
+- Assets/ui_icons/Keypad_Elements/Keypad_Elem_08.png
+- Assets/ui_icons/Cosmos/Cosmos_05.png
+- Assets/ui_icons/Cosmos/Cosmos_08.png
+- Assets/ui_icons/Keypad_Elements/Keypad_Elem_01.png
+- Assets/ui_icons/Pyramid_vibro_puzzle/Pyramid-puzzle_06.png
+- Assets/ui_icons/Pyramid_vibro_puzzle/Pyramid-puzzle_05.png
+- Assets/ui_icons/Keypad_Elements/Keypad_Elem_04.png
+- Assets/ui_icons/Cosmos/Cosmos_04.png
+- Assets/ui_icons/Pyramid_vibro_puzzle/Pyramid-puzzle_01.png
+- Assets/ui_icons/ScaleTileHint01.png
+- Assets/ui_icons/Chapter icons/Rune_Blurry_04.png
+- Assets/ui_icons/CrownKeyPuzzle/CrownKeyPuzzle_P2_4.png
+- Assets/ui_icons/Keypad_Elements/Keypad_Elem_07.png
+- Assets/ui_icons/KeyPad_numbers/KeyPad_num_5.png
+- Assets/ui_icons/ScaleHints_02_B.mat
+- Assets/ui_icons/KeyPad_Tiles/KeyPad_Tiles_7.png
+- Assets/ui_icons/Pyramid_vibro_puzzle/Pyramid-puzzle_complete.png
+- Assets/ui_icons/Chapter icons/Rune_Blurry_01.png
+- Assets/ui_icons/KeyPad_numbers/KeyPad_num_4.png
+- Assets/ui_icons/ScaleTileHint04.png
+- Assets/ui_icons/Pyramid_vibro_puzzle/Pyramid-puzzle_02.png
+- Assets/ui_icons/Pyramid_vibro_puzzle/Pyramid-puzzle_04.png
+- Assets/ui_icons/KeyPad_numbers/KeyPad_num_2.png
+- Assets/ui_icons/CrownKeyPuzzle/CrownKeyPuzzle_P2_3.png
+- Assets/ui_icons/Keypad_Elements/Keypad_Elem_05.png
+- Assets/ui_icons/KeyPad_Tiles/KeyPad_Tiles_5.png
+- Assets/ui_icons/Play_icon.png
+- Assets/ui_icons/Chapter icons/Rune_Blurry_03.png
+- Assets/ui_icons/Message_Beak_Pigeon.jpg
+- Assets/ui_icons/Cosmos/Cosmos_03.png
+- Assets/ui_icons/Chapter icons/Rune_Blurry_02.png
+- Assets/ui_icons/Zodiac/zodiac_10.png
+- Assets/ui_icons/ScaleHints_02_A.mat
+- Assets/ui_icons/Card-Frame.jpg
+- Assets/ui_icons/Zodiac/zodiac_3.png
+- Assets/ui_icons/CrownKeyPuzzle/CrownKeyPuzzle_P1_1.png
+- Assets/ui_icons/Zodiac/zodiac_2.png
+- Assets/ui_icons/KeyPad_numbers/KeyPad_num_0.png
+- Assets/ui_icons/Zodiac/zodiac_8.png
+- Assets/ui_icons/Zodiac/zodiac_A_01 Emissive icon.mat
+- Assets/ui_icons/Zodiac/zodiac_5.png
+- Assets/ui_icons/Chapter icons/Rune_Blurry_06.png
+- Assets/ui_icons/KeyPad_Tiles/KeyPad_Tiles_9.png
+- Assets/ui_icons/Zodiac/zodiac_11.png
+- Assets/ui_icons/KeyPad_numbers/KeyPad_num_6.png
+- Assets/ui_icons/KeyPad_Tiles/KeyPad_Tiles_3.png
+- Assets/ui_icons/Chapter icons/Rune_Blurry_08.png
+- Assets/ui_icons/Chapter icons/Rune_01.png
+- Assets/ui_icons/KeyPad_Tiles/KeyPad_Tiles_8.png
+- Assets/ui_icons/Zodiac/zodiac_A_03 Emissive icon.mat
+- Assets/ui_icons/Cosmos/Cosmos_06.png
+- Assets/ui_icons/CrownKeyPuzzle/CrownKeyPuzzle_P2_2.png
+- Assets/ui_icons/KeyPad_Tiles/KeyPad_Tiles_1.png
+- Assets/ui_icons/Zodiac/zodiac_A_04 Emissive icon.mat
+- Assets/ui_icons/Chapter icons/Rune_08.png
+- Assets/ui_icons/Chapter icons/Rune_03.png
+- Assets/ui_icons/Empty_Sprite.png
+- Assets/ui_icons/KeyPad_numbers/KeyPad_num_9.png
+- Assets/ui_icons/KeyPad_Tiles/KeyPad_Tiles_6.png
+- Assets/ui_icons/ScaleHints_02_D.mat
+- Assets/ui_icons/Zodiac/zodiac_7.png
+- Assets/ui_icons/CrownKeyPuzzle/CrownKeyPuzzle_P1_4.png
+- Assets/ui_icons/KeyPads_Back.png
+Dependencies: []
